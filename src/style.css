@@ -21,7 +21,11 @@ h1 {
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   text-align: center;
-  font-size: 15px;
+  font-size: 18px;
   margin-top: -8px;
   color: white;
+}
+.facialImage {
+  margin-top: 40px;
+  text-align: center;
 }
