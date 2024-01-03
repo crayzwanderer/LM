@@ -100,3 +100,29 @@ div.container-fluid {
 }
 div.narbar {
 }
+.skin-script-container {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.skin-script-container h1 {
+  font-family: "Arial", sans-serif;
+  font-size: 48px;
+  color: #4f378f; /* This is a bright blue, you can change it to match the brand colors */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  animation: fadeIn 2s;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
