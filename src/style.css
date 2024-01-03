@@ -44,6 +44,11 @@ h2 {
 .subText {
   margin-top: 180px;
 }
+.subText2 {
+}
+.massageImage {
+  text-align: center;
+}
 .testimonial-container {
   max-width: 800px;
   margin: 0 auto;
@@ -53,7 +58,7 @@ h2 {
 
 .testimonial {
   background-color: #f3f3f3;
-  border-left: 4px solid midnightblue;
+  border-left: 4px solid cadetblue;
   margin: 15px 0;
   padding: 15px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
@@ -69,7 +74,7 @@ h2 {
 .testimonial h4 {
   font-size: 14px;
   font-weight: bold;
-  color: midnightblue;
+  color: cadetblue;
   margin-top: 5px;
 }
 p {
@@ -78,4 +83,12 @@ p {
 .moreTestimonials {
   margin-top: -15px;
   padding-bottom: 15px;
+}
+.Licenses {
+  text-align: center;
+  margin: 5px;
+  margin-bottom: 66px;
+  margin-top: 20px;
+  font-size: 15px;
+  color: cadetblue;
 }
