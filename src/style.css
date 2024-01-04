@@ -380,12 +380,14 @@ p.email {
 .lesliePhotoText {
   padding-top: 8px;
   padding-bottom: 15px;
+  margin-top:-53px;
 }
-.meetText {
-  margin-bottom: -65px;
-}
+@media (max-width: 576px) {
+  .lesliePhotoText {
+    width: 330px;
+  }
 img.meetText {
-  margin-top: -26px;
+  margin-top: -8px;
 }
 .contact-button {
   background-color: #1f7f85; /* Brand color */
