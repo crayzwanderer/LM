@@ -194,8 +194,15 @@ img.productImage1.d-flex {
   margin-left: 51px;
 }
 img.productImage2 {
+  display: block;
+  margin: 0 auto;
   margin-top: -63px;
   margin-left: -7px;
+}
+@media_ (max-width:576px) {
+  img.productImage2 {
+    width: 390px;
+  }
 }
 .andSign {
   color: #1f7f85;
