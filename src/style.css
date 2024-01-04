@@ -136,6 +136,12 @@ div.container-fluid {
   margin-bottom: -25px;
 }
 
+@media (max-width: 576px) {
+  h1.productOneName {
+    font-size: 50px;
+  }
+}
+
 h1.productOneName2 {
   color: black;
   padding-top: 50px;
