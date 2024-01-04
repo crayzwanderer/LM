@@ -436,8 +436,8 @@ img.meetText {
   opacity: 0.6;
 }
 @media (max-width: 400px;) {
-  .backToTopButton {
-    margin-left: -200px;
+  .bottomButton {
+    margin-left: -600px;
   }
 }
 
