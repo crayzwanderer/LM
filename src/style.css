@@ -152,6 +152,13 @@ img.productImage1 {
   display: block;
   margin: 0 auto;
 }
+
+@media (min-width: 768px) {
+  img.productImage1 {
+    width: 150px;
+  }
+}
+
 .productImage1 {
   display: block;
   margin: 0 auto;
