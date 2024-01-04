@@ -139,6 +139,7 @@ div.container-fluid {
 h1.productOneName2 {
   color: black;
   padding-top: 50px;
+  text-align: center;
 }
 hr {
   margin-top: 4px;
@@ -148,6 +149,10 @@ hr.hr2 {
 }
 img.productImage1 {
   margin-top: -25px;
+}
+.productImage1 {
+  display: block;
+  margin: 0 auto;
 }
 #productImage1 {
   display: block;
