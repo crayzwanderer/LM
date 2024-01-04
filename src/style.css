@@ -50,6 +50,8 @@ h2 {
   font-size: 15px;
 }
 .subText4 {
+  color: cadetblue;
+  opacity: 0.8;
   font-family: "Arial", sans-serif;
 }
 .massageImage {
@@ -138,7 +140,7 @@ div.container-fluid {
 
 @media (max-width: 576px) {
   h1.productOneName {
-    font-size: 35px;
+    font-size: 30px;
   }
 }
 
@@ -146,6 +148,12 @@ h1.productOneName2 {
   color: black;
   padding-top: 50px;
   text-align: center;
+}
+
+@media (max-width: 576px) {
+  h1.productOneName2 {
+    font-size: 30px;
+  }
 }
 hr {
   margin-top: 4px;
