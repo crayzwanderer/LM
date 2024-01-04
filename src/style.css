@@ -95,18 +95,16 @@ p {
   text-align: center;
   margin: 5px;
   margin-bottom: 50px;
-  margin-top: 20px;
-  font-size: 15px;
+
+  font-size: 10px;
   color: cadetblue;
 }
-.LM logo {
-}
+
 div.container-fluid {
   margin-bottom: -20px;
   margin-top: -25px;
 }
-div.narbar {
-}
+
 .skin-script-container {
   text-align: center;
   margin-top: 50px;
@@ -208,8 +206,7 @@ img.saveOurSkinPhoto {
   text-align: left;
   padding-top: 8px;
 }
-.card {
-}
+
 .card-body {
   background-color: #1f7f85;
   opacity: 0.8;
