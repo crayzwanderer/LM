@@ -181,3 +181,28 @@ button#productImage2.btn.btn-outline-dark {
 div.subText4 {
   font-size: 25px;
 }
+#blogContainer {
+  display: block;
+  margin: 0 auto;
+  background-color: #1f7f85;
+  width: 100%;
+  height: 300px;
+  margin-bottom: 30px;
+  margin-top: 107px;
+}
+#blogButton {
+  margin-top: 67px;
+  margin-left: -74px;
+}
+img.saveOurSkinPhoto {
+  margin-left: -49px;
+  margin-top: 8px;
+}
+.articleSubText {
+  margin-top: 18px;
+  font-size: 10px;
+  margin-right: -5px;
+  text-align: left;
+  margin-left: -58px;
+  padding-top: 25px;
+}
