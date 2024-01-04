@@ -40,11 +40,13 @@ h2 {
 }
 #buttons2 {
   margin-top: 283px;
+  padding-top: 50px;
 }
 .subText {
-  margin-top: 180px;
+  margin-top: 140px;
 }
-.subText2 {
+.subText3 {
+  font-size: 15px;
 }
 .massageImage {
   text-align: center;
@@ -83,6 +85,7 @@ p {
 .moreTestimonials {
   margin-top: -15px;
   padding-bottom: 15px;
+  margin-bottom: 25px;
 }
 .Licenses {
   text-align: center;
@@ -109,8 +112,8 @@ div.narbar {
 .skin-script-container h1 {
   font-family: "Arial", sans-serif;
   font-size: 48px;
-  color: #4f378f; /* This is a bright blue, you can change it to match the brand colors */
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  color: #8a77be; /* This is a bright blue, you can change it to match the brand colors */
+  text-shadow: 2px 2px 4px #4f378f(0, 0, 0, 0.5);
   letter-spacing: 2px;
   text-transform: uppercase;
   animation: fadeIn 2s;
@@ -125,4 +128,11 @@ div.narbar {
     opacity: 1;
     transform: translateY(0);
   }
+}
+.productOneName {
+  margin-top: -40px;
+  margin-bottom: -25px;
+}
+hr {
+  margin-top: 4px;
 }
