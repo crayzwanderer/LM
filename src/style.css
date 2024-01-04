@@ -421,7 +421,7 @@ img.meetText {
   display: block; /* Initially hidden */
   position: fixed; /* Fixed position */
   bottom: 10px; /* 20px from the bottom */
-  right: 50px; /* 50px from the right */
+  right: 30px; /* 50px from the right */
   z-index: 99; /* Ensures it's above other elements */
   border: none; /* No border */
   outline: none; /* Removes the outline */
@@ -437,7 +437,7 @@ img.meetText {
 }
 @media (max-width: 400px;) {
   .bottomButton {
-    right: 190px;
+    right: 300px;
   }
 }
 
