@@ -421,7 +421,7 @@ img.meetText {
   display: block; /* Initially hidden */
   position: fixed; /* Fixed position */
   bottom: 10px; /* 20px from the bottom */
-  right: 30px; /* 30px from the right */
+  right: 50px; /* 30px from the right */
   z-index: 99; /* Ensures it's above other elements */
   border: none; /* No border */
   outline: none; /* Removes the outline */
