@@ -153,9 +153,9 @@ img.productImage1 {
   margin: 0 auto;
 }
 
-@media (min-width: 768px) {
+@media (max-width: 576px) {
   img.productImage1 {
-    width: 150px;
+    width: 300px;
   }
 }
 
