@@ -417,3 +417,34 @@ img.meetText {
 .contact-button:active {
   transform: translateY(1px); /* Pushed down effect on click */
 }
+.bottomButton {
+  display: block; /* Initially hidden */
+  position: fixed; /* Fixed position */
+  bottom: 10px; /* 20px from the bottom */
+  right: 30px; /* 30px from the right */
+  z-index: 99; /* Ensures it's above other elements */
+  border: none; /* No border */
+  outline: none; /* Removes the outline */
+  background-color: #1f7f85; /* On-brand color */
+  color: white;
+  cursor: pointer; /* Cursor changes to pointer on hover */
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 14px;
+  transition: background-color 0.3s, transform 0.3s; /* Smooth transition for hover effects */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
+  opacity: 0.6;
+}
+
+.bottomButton:hover {
+  background-color: #0056b3; /* Slightly darker shade on hover */
+  transform: translateY(-2px); /* Slight lift effect on hover */
+}
+
+.bottomButton:active {
+  transform: translateY(1px); /* Pushed down effect on click */
+}
+.backToTopButton {
+  color: white;
+  text-decoration: none;
+}
