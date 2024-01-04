@@ -380,12 +380,18 @@ p.email {
 .lesliePhotoText {
   padding-top: 8px;
   padding-bottom: 15px;
-  margin-top:-53px;
+  margin-top: -53px;
 }
 @media (max-width: 576px) {
   .lesliePhotoText {
     width: 330px;
   }
+}
+@media (max-width: 400px) {
+  .lesliePhotoText {
+    width: 200px;
+  }
+}
 img.meetText {
   margin-top: -8px;
 }
@@ -411,5 +417,3 @@ img.meetText {
 .contact-button:active {
   transform: translateY(1px); /* Pushed down effect on click */
 }
-.leslieEmail {
-  color: #1f7f85;}
