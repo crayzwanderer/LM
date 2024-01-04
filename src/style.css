@@ -191,18 +191,17 @@ div.subText4 {
   margin-top: 107px;
 }
 #blogButton {
-  margin-top: 67px;
-  margin-left: -74px;
+  margin-top: 74px;
+  margin-left: -97px;
 }
 img.saveOurSkinPhoto {
   margin-left: -49px;
   margin-top: 8px;
 }
 .articleSubText {
-  margin-top: 18px;
+  padding: 25px;
   font-size: 10px;
-  margin-right: -5px;
+  margin-left: -86px;
   text-align: left;
-  margin-left: -58px;
   padding-top: 25px;
 }
