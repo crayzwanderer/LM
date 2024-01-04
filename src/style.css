@@ -437,7 +437,7 @@ img.meetText {
 }
 @media (max-width: 400px;) {
   .bottomButton {
-    right: 300px;
+    margin-left: -200px;
   }
 }
 
