@@ -13,6 +13,7 @@ h2 {
   color: white;
   font-size: 22px;
   padding-bottom: 5px;
+
   font-family: sans-serif;
   margin: 11px;
 }
@@ -47,6 +48,9 @@ h2 {
 }
 .subText3 {
   font-size: 15px;
+}
+.subText4 {
+  font-family: "Arial", sans-serif;
 }
 .massageImage {
   text-align: center;
@@ -133,12 +137,43 @@ div.narbar {
   margin-top: -40px;
   margin-bottom: -25px;
 }
+
+h1.productOneName2 {
+  color: black;
+  padding-top: 50px;
+}
 hr {
   margin-top: 4px;
+}
+hr.hr2 {
+  margin-top: -65px;
+}
+img.productImage1 {
+  margin-top: -25px;
 }
 #productImage1 {
   display: block;
   margin: 0 auto;
   margin-bottom: 25px;
   margin-top: 8px;
+}
+#productImage2 {
+  display: block;
+  margin: 0 auto;
+}
+
+img.productImage2 {
+  margin-top: -50px;
+}
+.andSign {
+  color: #1f7f85;
+}
+button#productImage1.btn.btn-outline-dark {
+  margin-top: -75px;
+}
+button#productImage2.btn.btn-outline-dark {
+  margin-top: 15px;
+}
+div.subText4 {
+  font-size: 25px;
 }
