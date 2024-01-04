@@ -186,13 +186,13 @@ div.subText4 {
   margin: 0 auto;
   background-color: #1f7f85;
   width: 100%;
-  height: 300px;
+  height: 259 px;
   margin-bottom: 30px;
   margin-top: 107px;
 }
 #blogButton {
-  margin-top: 74px;
-  margin-left: -97px;
+  margin-top: 51px;
+  margin-left: -96px;
 }
 img.saveOurSkinPhoto {
   margin-left: -49px;
@@ -202,6 +202,6 @@ img.saveOurSkinPhoto {
   padding: 25px;
   font-size: 10px;
   margin-left: -86px;
-  text-align: left;
+  text-align: center;
   padding-top: 25px;
 }
