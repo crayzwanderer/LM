@@ -1,6 +1,10 @@
 body {
   background-color: #eddfd2;
 }
+.navbar-nav {
+  margin-top: -31px;
+  margin-bottom: 27px;
+}
 h1 {
   color: white;
   text-align: center;
@@ -202,7 +206,7 @@ img.productImage2 {
   padding-top: 35px;
   padding-bottom: 85px;
 }
-@media_ (max-width:576px) {
+@media (max-width: 576px) {
   img.productImage2 {
     width: 300px;
   }
