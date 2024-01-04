@@ -136,3 +136,9 @@ div.narbar {
 hr {
   margin-top: 4px;
 }
+#productImage1 {
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 25px;
+  margin-top: 8px;
+}
