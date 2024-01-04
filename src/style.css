@@ -185,7 +185,9 @@ img.productImage1 {
   margin-bottom: 80px;
   text-align: center;
 }
-
+.productImage2 {
+  text-align: center;
+}
 #productImage2 {
   display: block;
   margin: 0 auto;
@@ -197,11 +199,12 @@ img.productImage2 {
   display: block;
   margin: 0 auto;
   margin-top: -63px;
-  margin-left: -7px;
+  padding-top: 35px;
+  padding-bottom: 85px;
 }
 @media_ (max-width:576px) {
   img.productImage2 {
-    width: 390px;
+    width: 300px;
   }
 }
 .andSign {
