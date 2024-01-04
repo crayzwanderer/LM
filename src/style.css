@@ -377,9 +377,37 @@ p.email {
   text-align: center;
 }
 .lesliePhotoText {
-  padding-top: 25px;
+  padding-top: 8px;
   padding-bottom: 15px;
 }
 .meetText {
-  margin-bottom: -85px;
+  margin-bottom: -65px;
+}
+img.meetText {
+  margin-top: -26px;
+}
+.contact-button {
+  background-color: #1f7f85; /* Brand color */
+  color: white;
+  font-size: 18px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.3s;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  outline: none; /* Removes the default focus outline */
+  opacity: 0.6;
+}
+
+.contact-button:hover {
+  background-color: #0056b3; /* Slightly darker shade on hover */
+  transform: translateY(-2px); /* Slight lift effect on hover */
+}
+
+.contact-button:active {
+  transform: translateY(1px); /* Pushed down effect on click */
+}
+.leslieEmail {
+  color: #1f7f85;
 }
