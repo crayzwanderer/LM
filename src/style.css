@@ -152,6 +152,8 @@ img.productImage1 {
   margin-top: -25px;
 }
 #productImage1 {
+  display: block;
+  margin: 0 auto;
   margin-bottom: 25px;
   margin-top: 8px;
 }
