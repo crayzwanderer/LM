@@ -435,7 +435,7 @@ img.meetText {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
   opacity: 0.6;
 }
-@media (max-width: 400px;) {
+@media (max-width: 578px;) {
   .bottomButton {
     margin-left: -600px;
   }
