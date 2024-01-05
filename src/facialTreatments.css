@@ -6,10 +6,11 @@
 }
 h1 {
   text-align: left;
-  color: white;
-  margin-top: -393px;
+  color: #1f7f85;
+  margin-top: -609px;
   margin-left: 20px;
   font-weight: 600;
+  text-decoration: underline;
 }
 h3 {
   margin-top: 140px;
@@ -30,7 +31,7 @@ h4 {
   max-width: 600px;
   margin: 20px auto;
   text-align: center;
-  margin-top: 218px;
+  margin-top: -130px;
 }
 
 .facial-services-section h2 {
@@ -59,6 +60,25 @@ h4 {
   font-size: 14px;
   line-height: 1.5;
 }
-img {
+img.facialImage {
+  margin-top: 15px;
   border-radius: 5px 50px;
+  opacity: 0.09;
+  margin-bottom: 20px;
+}
+#customService {
+  margin-top: -15px;
+}
+#hydroluxxService {
+  margin-top: -125px;
+}
+#ultrasonicService {
+  margin-top: -120px;
+}
+.service p {
+  font-size: 13px;
+}
+div.container-fluid {
+  margin-top: -15px;
+  margin-bottom: -15px;
 }
