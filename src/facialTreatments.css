@@ -8,13 +8,54 @@ h1 {
   text-align: left;
   color: white;
   margin-top: -372px;
-  margin-left: 30px;
+  margin-left: 20px;
   font-weight: 600;
 }
+h3 {
+  margin-top: 140px;
+}
 h4 {
+  margin: 35px;
   text-align: left;
   color: white;
-  margin-top: 10px;
-  margin-left: 30px;
+  margin-left: 20px;
   font-weight: 100;
+  font-size: 15px;
+}
+.facial-services-section {
+  background-color: #f2f2f2; /* Light grey to stay on brand */
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  max-width: 600px;
+  margin: 20px auto;
+  text-align: center;
+  margin-top: 188px;
+}
+
+.facial-services-section h2 {
+  color: #007bff; /* Brand color */
+  margin-bottom: 15px;
+}
+
+.facial-services-section p {
+  color: #333;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.service {
+  margin-top: 15px;
+  text-align: left;
+}
+
+.service h3 {
+  color: #1f7f85; /* On brand color */
+  font-size: 18px;
+}
+
+.service p {
+  color: #333;
+  font-size: 14px;
+  line-height: 1.5;
 }
