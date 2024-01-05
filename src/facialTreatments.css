@@ -6,7 +6,7 @@
 }
 h1 {
   text-align: left;
-  color: #1f7f85;
+  color: white;
   margin-top: -609px;
   margin-left: 20px;
   font-weight: 600;
@@ -40,7 +40,7 @@ h4 {
 }
 
 .facial-services-section p {
-  color: #333;
+  color: white;
   font-size: 16px;
   line-height: 1.6;
 }
@@ -51,19 +51,19 @@ h4 {
 }
 
 .service h3 {
-  color: #1f7f85; /* On brand color */
-  font-size: 18px;
+  color: white; /* On brand color */
+  font-size: 19px;
 }
 
 .service p {
-  color: #333;
+  color: white;
   font-size: 14px;
   line-height: 1.5;
 }
 img.facialImage {
   margin-top: 15px;
   border-radius: 5px 50px;
-  opacity: 0.09;
+  z-index: -1;
   margin-bottom: 20px;
 }
 #customService {
@@ -81,4 +81,14 @@ img.facialImage {
 div.container-fluid {
   margin-top: -15px;
   margin-bottom: -15px;
+}
+#bookServicesButton {
+  display: block;
+  margin: 0 auto;
+  margin-top: 50px;
+  margin-bottom: 10px;
+  z-index: 7;
+}
+#tooBig {
+  font-size: 16px;
 }
