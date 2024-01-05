@@ -457,3 +457,7 @@ img.meetText {
   color: white;
   text-decoration: none;
 }
+a.facialButton:hover {
+  background-color: black;
+  color: white;
+}
