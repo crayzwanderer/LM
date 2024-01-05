@@ -6,7 +6,7 @@
 }
 h1 {
   text-align: left;
-  color: white;
+  color: black;
   margin-top: -609px;
   margin-left: 20px;
   font-weight: 600;
@@ -31,7 +31,7 @@ h4 {
   max-width: 600px;
   margin: 20px auto;
   text-align: center;
-  margin-top: -130px;
+  margin-top: 500px;
 }
 
 .facial-services-section h2 {
@@ -51,12 +51,12 @@ h4 {
 }
 
 .service h3 {
-  color: white; /* On brand color */
+  color: #1f7f85; /* On brand color */
   font-size: 19px;
 }
 
 .service p {
-  color: white;
+  color: black;
   font-size: 14px;
   line-height: 1.5;
 }
@@ -85,7 +85,7 @@ div.container-fluid {
 #bookServicesButton {
   display: block;
   margin: 0 auto;
-  margin-top: 50px;
+  margin-top: -60px;
   margin-bottom: 10px;
   z-index: 7;
   text-decoration: none;
