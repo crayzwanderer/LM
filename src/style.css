@@ -17,9 +17,9 @@ h2 {
   color: white;
   font-size: 22px;
   padding-bottom: 5px;
-
   font-family: sans-serif;
   margin: 11px;
+  margin-top: 48px;
 }
 .aFont {
   text-align: center;
@@ -457,7 +457,10 @@ img.meetText {
   color: white;
   text-decoration: none;
 }
-a.facialButton:hover {
-  background-color: black;
+
+.facialButton {
   color: white;
+}
+a.facialButton:hover {
+  color: black;
 }
