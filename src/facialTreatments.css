@@ -7,7 +7,7 @@
 h1 {
   text-align: left;
   color: black;
-  margin-top: -609px;
+  margin-top: 4px;
   margin-left: 20px;
   font-weight: 600;
   text-decoration: underline;
@@ -31,7 +31,8 @@ h4 {
   max-width: 600px;
   margin: 20px auto;
   text-align: center;
-  margin-top: 500px;
+  margin-top: -128px;
+  margin-bottom: 20px;
 }
 
 .facial-services-section h2 {
@@ -86,10 +87,18 @@ div.container-fluid {
   display: block;
   margin: 0 auto;
   margin-top: -60px;
-  margin-bottom: 10px;
+
   z-index: 7;
   text-decoration: none;
 }
 #tooBig {
   font-size: 16px;
+}
+
+/* Title Styling */
+.facial-treatments-title {
+  text-align: center; /* Centers the title */
+  font-size: 32px; /* Large font size for impact */
+  color: black; /* Brand color - can be adjusted */
+  text-decoration: none;
 }
