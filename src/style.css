@@ -40,12 +40,22 @@ h2 {
   margin-top: 40px;
   text-align: center;
 }
+
 .facialButton {
   text-decoration: none;
   color: black;
 }
+
+.facialButton {
+  color: black;
+}
+a.facialButton:hover {
+  color: white;
+}
+
 #buttons {
   margin-top: -492px;
+  color: black;
 }
 #buttons2 {
   margin-top: 283px;
@@ -456,11 +466,4 @@ img.meetText {
 .backToTopButton {
   color: white;
   text-decoration: none;
-}
-
-.facialButton {
-  color: white;
-}
-a.facialButton:hover {
-  color: black;
 }
