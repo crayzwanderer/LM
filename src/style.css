@@ -467,3 +467,9 @@ img.meetText {
   color: white;
   text-decoration: none;
 }
+#facialImage {
+  padding-bottom: 1.5rem;
+}
+#facialButton2 {
+  color: white;
+}
