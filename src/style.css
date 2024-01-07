@@ -421,6 +421,7 @@ img.meetText {
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
   outline: none; /* Removes the default focus outline */
   opacity: 0.6;
+  text-decoration: none;
 }
 
 .contact-button:hover {
@@ -471,5 +472,9 @@ img.meetText {
   padding-bottom: 1.5rem;
 }
 #facialButton2 {
+  color: white;
+}
+.bbEmail {
+  text-decoration: none;
   color: white;
 }
