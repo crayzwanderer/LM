@@ -478,3 +478,7 @@ img.meetText {
   text-decoration: none;
   color: white;
 }
+
+.navbar-nav {
+  margin-top: 25px;
+}
