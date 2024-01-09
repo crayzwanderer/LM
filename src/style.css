@@ -479,6 +479,6 @@ img.meetText {
   color: white;
 }
 
-::-webkit-file-upload-button.navbar-nav {
+navbar-nav {
   margin-top: 55px;
 }
