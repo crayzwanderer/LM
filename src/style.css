@@ -2,7 +2,7 @@ body {
   background-color: #eddfd2;
 }
 .navbar-nav {
-  margin-top: -31px;
+  margin-top: 28px;
   margin-bottom: 27px;
 }
 h1 {
@@ -477,8 +477,4 @@ img.meetText {
 .bbEmail {
   text-decoration: none;
   color: white;
-}
-
-navbar-nav {
-  margin-top: 55px;
 }
