@@ -6,7 +6,7 @@ body {
   margin-bottom: 27px;
 }
 h1 {
-  color: white;
+  color: #946e54;
   text-align: center;
   font-family: sans-serif;
   font-size: 50px;
@@ -14,13 +14,18 @@ h1 {
   z-index: 5;
 }
 h2 {
-  color: white;
+  color: #946e54;
   font-size: 22px;
   padding-bottom: 5px;
   font-family: sans-serif;
   margin: 11px;
   margin-top: 48px;
 }
+
+.secondh2 {
+  margin-top: 190px;
+}
+
 .aFont {
   text-align: center;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -34,23 +39,31 @@ h2 {
   text-align: center;
   font-size: 18px;
   margin-top: -8px;
-  color: white;
+  color: #946e54;
 }
 .facialImage {
   margin-top: 40px;
   text-align: center;
 }
-
+#button1 {
+  outline: #946e54;
+}
 .facialButton {
   text-decoration: none;
   color: black;
+}
+a#facialButton2.facialButton {
+  color: #433831;
 }
 
 #facialButton2:hover {
   color: black;
 }
 a.facialButton:hover {
-  color: white;
+  color: black;
+}
+div.col {
+  margin-top: -80px;
 }
 
 #buttons {
@@ -61,6 +74,7 @@ a.facialButton:hover {
   margin-top: 283px;
   padding-top: 50px;
 }
+
 .subText {
   margin-top: 140px;
 }
